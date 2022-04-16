@@ -1,0 +1,14 @@
+html{
+    /* font-size: 10px; */
+    font-size: 62.5%;
+    /* we should use 62.5% here! it will help in making website reponsive one i.e. you can zoomin and zoom out remember 10px = 62.5% */
+
+}
+
+h1{
+    font-size: 5rem;    /* 5rem = 5*10px */
+}
+
+p{
+    font-size: 2rem;    /* 2rem = 2*10px */
+}

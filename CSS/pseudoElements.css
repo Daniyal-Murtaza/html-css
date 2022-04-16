@@ -1,0 +1,30 @@
+/* p is seletor -- :: is used for pseudoelement -- : is used for pseudouclasses -- first letter deals with first letter */
+
+p::first-letter{
+    font-size: 32px;
+}
+
+main::first-line{
+    font-size: 32px;
+}
+
+p::selection{
+    background-color: black;
+    color: white;
+}
+
+.p1::before{
+    content: "moshi moshi";
+    color: red;
+    background-color: yellow;
+    display: block;            /* default is inline */
+    border: 1px dotted violet;
+}
+
+.p1::after{
+    content: "marvel iron fist";
+    color: white;
+    background-color: black;
+    display: block;            /* default is inline */
+    border: 1px dotted violet;
+}

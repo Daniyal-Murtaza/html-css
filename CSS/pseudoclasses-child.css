@@ -1,0 +1,34 @@
+/* jo bhi kisi bhi parent tag k first child hogai un ka color red hojae ga*/
+/* p:first-of-type{
+    color: purple;            parets k respect sa dekhai gai. parent ka first h? 
+}  */
+
+/* p:first-child{         
+    color: red;             child k respect sai dekhai gai. first child h?
+} */ 
+
+/* ---------------------------------------- */
+
+/* p:last-of-type{
+    color: purple;            parets k respect sa dekhai gai. parent ka first h?  
+}  */
+
+/* p:last-child{         
+    color: red;                child k respect sai dekhai gai. first child h? 
+} */
+
+/* ---------------------------------------- */
+
+/* 
+p:nth-child(2){                     dosra child hai?
+    color: green;
+} */
+
+/* p:nth-child(2n){                    2 k multiples walai paragraph 
+    color: green;
+}  */
+
+p:nth-of-type(2){                    
+    color: green;
+} 
+

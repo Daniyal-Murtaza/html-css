@@ -1,0 +1,29 @@
+.d1{
+    background-color: red;
+    border: 2px solid black;
+    width: 50%;
+    /* top: 50px; */
+    /* position: relative;                   default position:static */
+    /* left */
+    /* bottom */
+    /* right */
+
+    /* position: absolute; */
+    /* right: 0px; */
+}
+
+.d2{
+    background-color: yellow;
+    border: 2px solid green;
+    width: 50%;
+    /* transform: translate(x-coordinate,y-coordinate); */
+    
+}
+
+.nav{
+    position: sticky;
+    top: 0px;
+    background: yellow;
+    border: 5px solid black;
+    
+}

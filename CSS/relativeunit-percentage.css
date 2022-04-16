@@ -1,0 +1,8 @@
+div{
+    border: 2px solid red;
+}
+
+p{
+    background-color: lightgreen;
+    width: 50%;                     /*  means 50% width of it's parent */
+}

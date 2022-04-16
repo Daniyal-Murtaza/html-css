@@ -1,0 +1,16 @@
+body :not(p){
+    color: green;
+    background-color: blue;
+    font-weight: 700;
+}
+
+div:empty{
+    color: black;
+    border: 2px solid red;
+    height: 100px;
+    width: 100px;
+}
+
+:root{
+    background-color: orangered;
+}

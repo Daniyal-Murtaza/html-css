@@ -1,0 +1,44 @@
+img{
+    border: 5px inset black;
+
+}
+
+header{
+    background-color: #fffdc0;
+    /* border: 5px inset  purple; */
+    color: #000;
+    border-style: inset;
+    border-color: purple;
+    border-width: 5px;
+    border-radius: 10px;
+    /* border-bottom: chocolate;
+    border-top: crimson; */
+}
+
+
+input[type="tel"]{
+    color: #000;
+    background-color: yellow;
+}
+
+input[type="password"]{
+    color: #000;
+    background-color: yellow;
+}
+
+a[href="./HTML/page2/Thanksgiving.html"]{
+    color: #000;
+    background-color: yellow;
+}
+
+input[type*="text"]{
+    background-color: teal;
+}
+
+a[href^="www."]{
+    background-color: violet;
+}
+
+a[href$=".pk"]{
+    background-color: #909090;
+}

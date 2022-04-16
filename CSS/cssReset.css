@@ -1,0 +1,8 @@
+/* <!-- default browser margin = 8pixels -->
+<!-- to exit from the default state we can use universal selector */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border box;
+}

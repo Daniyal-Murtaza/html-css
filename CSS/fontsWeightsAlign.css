@@ -1,0 +1,5 @@
+h3{
+    text-align: right;
+    font-weight: 700;  /* which is equal to bold */
+    /* font-weight: 400;  which is equal to normal */
+}

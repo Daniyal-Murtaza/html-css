@@ -1,0 +1,23 @@
+/* link-visited-hover-active */
+
+/* they can be used in any of the tags */
+
+a:link{
+    color: purple;
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover{
+    color: chartreuse;
+}
+
+a:active{
+    color: black;
+    background-color: sandybrown;
+}
+
+/* --------------------------------- */
+/* priority should be folloewd */
